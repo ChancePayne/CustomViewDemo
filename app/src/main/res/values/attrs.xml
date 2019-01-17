@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BasicCustomView">
+        <attr name="back_color" format="color"/>
+        <attr name="front_color" format="color"/>
+        <attr name="size_vertical" format="integer"/>
+        <attr name="size_horizontal" format="integer"/>
+    </declare-styleable>
+</resources>
